@@ -8,3 +8,18 @@ Light green: #7ed56f
 Medium green: #55c57a
 Dark green: #28b485  */
 
+/* Clean reset of all web browsers to help
+each to render the same */
+* {
+    margin; 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Using inheritence selector */
+body {
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #777;
+}
