@@ -20,7 +20,10 @@ Continue self-taught training until classes begin in August 2020. This will be s
 14. Understanding how to position the image and make the image repsonsive to different devices the way you want
 15. Understanding how to clip-path on the image to style the image the way you envision the page to look
 16. Apply transparency to the opacity levels on the background image shown for the colors of the background image thus making both of the images viewable in the web page
-
+17. Bring an image into the page without affecting the background image(s) that we currently have in use
+18. Creating the h1 for the web page and for the search enginge looking through the content
+19. Apply styles to the heading primary and heading sub to better understand the placement
+20. 
 
 
 ## Slides/ Lectures Completed:
