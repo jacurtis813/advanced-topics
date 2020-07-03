@@ -15,6 +15,8 @@ Continue self-taught training until classes begin in August 2020. This will be s
 9. Use element selectors to begin styling the web page
 10. Create the background image for the page using CSS. Use the directory pathway to connect one a specific file (locate working directory)
 11. Test that the code will work with the pathways chosen. All works
+12. Using new properties. Use dev tools to play with each value
+13. How to use two images on the background
 
 
 ## Slides/ Lectures Completed:
