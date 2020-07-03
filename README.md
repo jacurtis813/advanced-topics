@@ -17,6 +17,10 @@ Continue self-taught training until classes begin in August 2020. This will be s
 11. Test that the code will work with the pathways chosen. All works
 12. Using new properties. Use dev tools to play with each value
 13. How to use two images on the background
+14. Understanding how to position the image and make the image repsonsive to different devices the way you want
+15. Understanding how to clip-path on the image to style the image the way you envision the page to look
+16. Apply transparency to the opacity levels on the background image shown for the colors of the background image thus making both of the images viewable in the web page
+
 
 
 ## Slides/ Lectures Completed:
