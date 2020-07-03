@@ -12,7 +12,9 @@ Continue self-taught training until classes begin in August 2020. This will be s
 6. Apply an image by creating a favicon for the html file created
 7. In this course we will be using the most update to date html- html 5, using semantic logic when coding (give meaning)
 8. Quick setting of selectors, using the reset selector to set every web browser to render the page the exact same
-9. Use element selectors to begin styling the web page 
+9. Use element selectors to begin styling the web page
+10. Create the background image for the page using CSS. Use the directory pathway to connect one a specific file (locate working directory)
+11. Test that the code will work with the pathways chosen. All works
 
 
 ## Slides/ Lectures Completed:
