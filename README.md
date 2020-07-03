@@ -23,7 +23,7 @@ Continue self-taught training until classes begin in August 2020. This will be s
 17. Bring an image into the page without affecting the background image(s) that we currently have in use
 18. Creating the h1 for the web page and for the search enginge looking through the content
 19. Apply styles to the heading primary and heading sub to better understand the placement
-20. 
+20. Understanding the property of positioning and their values
 
 
 ## Slides/ Lectures Completed:
