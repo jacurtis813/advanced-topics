@@ -27,7 +27,9 @@ Continue self-taught training until classes begin in August 2020. This will be s
 21. Create animation in the css stylesheet, learn how and utilize
 22. Use MDN docs to use the animation properties and their values to help understand their uses
 23. Perform the self-excercise. Move the text in from the right side like we did with the text from the left side
-24. 
+24. Make one minor adjustment to the property value for the self excercise
+25. Create animated buttons, complex animation within the html file 
+26. Find a fix for the image flickering when using the hover selector
 
 
 ## Slides/ Lectures Completed:
