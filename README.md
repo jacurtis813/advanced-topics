@@ -25,7 +25,9 @@ Continue self-taught training until classes begin in August 2020. This will be s
 19. Apply styles to the heading primary and heading sub to better understand the placement
 20. Understanding the property of positioning and their values
 21. Create animation in the css stylesheet, learn how and utilize
-22. 
+22. Use MDN docs to use the animation properties and their values to help understand their uses
+23. Perform the self-excercise. Move the text in from the right side like we did with the text from the left side
+24. 
 
 
 ## Slides/ Lectures Completed:
