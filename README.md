@@ -26,6 +26,7 @@ Continue self-taught training until classes begin in August 2020. This will be s
 20. Understanding the property of positioning and their values
 
 
+
 ## Slides/ Lectures Completed:
 
 * Section One- Welcome to CSS (advanced): 7min
