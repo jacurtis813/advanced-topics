@@ -24,7 +24,8 @@ Continue self-taught training until classes begin in August 2020. This will be s
 18. Creating the h1 for the web page and for the search enginge looking through the content
 19. Apply styles to the heading primary and heading sub to better understand the placement
 20. Understanding the property of positioning and their values
-
+21. Create animation in the css stylesheet, learn how and utilize
+22. 
 
 
 ## Slides/ Lectures Completed:
