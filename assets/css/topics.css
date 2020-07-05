@@ -55,7 +55,7 @@ body {
     text-transform: uppercase;
 
     /*this will fix the shakiness of the element contatiner*/
-    backface-visibility: hidden;
+    
 }
 
 .heading-primary-main {

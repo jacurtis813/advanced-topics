@@ -29,7 +29,9 @@ Continue self-taught training until classes begin in August 2020. This will be s
 23. Perform the self-excercise. Move the text in from the right side like we did with the text from the left side
 24. Make one minor adjustment to the property value for the self excercise
 25. Create animated buttons, complex animation within the html file 
-26. Find a fix for the image flickering when using the hover selector
+26. Find a fix for the image flickering when using the hover selector. Fixed this 
+27. How to use psuedo-classes and the psuedo-elements
+28. 
 
 
 ## Slides/ Lectures Completed:
