@@ -48,6 +48,7 @@ body {
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 .heading-primary {
@@ -118,4 +119,20 @@ body {
         transform: translateX(0);
     }
 
+}
+
+/*to center this text we can use the inheritence selector*/
+/*this is showing the psuedo-class*/
+.btn:link,
+.btn:visited {
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 40px;
+    /*this will give the inline element its own padding some space */
+    display: inline-block;
+}
+
+.btn-white {
+    background-color: #fff;
+    color: #777;
 }
