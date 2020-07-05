@@ -31,11 +31,13 @@ Continue self-taught training until classes begin in August 2020. This will be s
 25. Create animated buttons, complex animation within the html file 
 26. Find a fix for the image flickering when using the hover selector. Fixed this 
 27. How to use psuedo-classes and the psuedo-elements
-28. 
+28. Style the button to give the button animation when using the button
+29. Create the moveIn feature for the button. attempt before watching the solution
+30. Make the correction. Watch the solution video, animation fill mode/ Complete Section 2.0
 
 
 ## Slides/ Lectures Completed:
 
 * Section One- Welcome to CSS (advanced): 7min
 * Section Two- First Steps/ Set Up: 1hr 36min
-* 
+
