@@ -34,10 +34,14 @@ Continue self-taught training until classes begin in August 2020. This will be s
 28. Style the button to give the button animation when using the button
 29. Create the moveIn feature for the button. attempt before watching the solution
 30. Make the correction. Watch the solution video, animation fill mode/ Complete Section 2.0
+31. Begin the section three modules with Jonas Schmedtmann
+32. 
 
 
 ## Slides/ Lectures Completed:
 
 * Section One- Welcome to CSS (advanced): 7min
 * Section Two- First Steps/ Set Up: 1hr 36min
+* Section Three- How CSS Works: Behind the Scenes: 1hr 30min
+
 
