@@ -39,7 +39,8 @@ Continue self-taught training until classes begin in August 2020. This will be s
 33. Understanding how the web page is loaded for the user, step by step, to better understand the architecture of building rather than just building without structure
 34. Begin with understanding how the html file will load within the web page
 35. Next, understanding how css file will parse within the web page- the step by step behind the scenes breakdown
-36. 
+36. Learning the level of imporatnce with the files
+37. 
 
 
 ## Slides/ Lectures Completed:
