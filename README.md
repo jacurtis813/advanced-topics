@@ -53,7 +53,7 @@ Continue self-taught training until classes begin in August 2020. This will be s
 47. Properties like margin and padding are not inherited, for obvious reasons
 48. Using rem measurement units within the entire CSS file to style our HTML file this will keep the measurements in uniform as well as load within the browser quicker
 49. Change/ Adjust all measurements from px to rem, do not change the percentages those are fine for web responsiveness, this technique will make things more responsive
-50. 
+50. Change the declared root property value to a percentage. With a specified px assigned the user no longer has the ability to change the font size/ basically no ability to zoom the contetent
 
 
 ## Slides/ Lectures Completed:
