@@ -47,7 +47,13 @@ Continue self-taught training until classes begin in August 2020. This will be s
 41. we will use the vh within the hero section or the jumbotron more often when we style
 42. we will use the vw within the values to apply percentage over the viewport width
 43. Percentages and relative values are converted into pixels
-44. 
+44. Finally learning how the inheritance in css works
+45. Passing styles from parent to child, making the code clean, concise and maintainable
+46. Rule of thumb is that properties related to text are inherited, font-famil, font-size, color, etc. 
+47. Properties like margin and padding are not inherited, for obvious reasons
+48. Using rem measurement units within the entire CSS file to style our HTML file this will keep the measurements in uniform as well as load within the browser quicker
+49. Change/ Adjust all measurements from px to rem, do not change the percentages those are fine for web responsiveness, this technique will make things more responsive
+50. 
 
 
 ## Slides/ Lectures Completed:
