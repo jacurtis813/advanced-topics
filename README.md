@@ -40,7 +40,13 @@ Continue self-taught training until classes begin in August 2020. This will be s
 34. Begin with understanding how the html file will load within the web page
 35. Next, understanding how css file will parse within the web page- the step by step behind the scenes breakdown
 36. Learning the level of imporatnce with the files
-37. 
+37. Understanding how to breakdown the specificity and how to calculate them
+38. Continue the practice with the specificity of each selector, in depth understanding
+39. Learning how to calculate the differences between the rem and em measurments
+40. Learning how to calculate the measurement of vw and vh within the value
+41. we will use the vh within the hero section or the jumbotron more often when we style
+42. we will use the vw within the values to apply percentage over the viewport width
+43. 
 
 
 ## Slides/ Lectures Completed:
