@@ -54,6 +54,10 @@ Continue self-taught training until classes begin in August 2020. This will be s
 48. Using rem measurement units within the entire CSS file to style our HTML file this will keep the measurements in uniform as well as load within the browser quicker
 49. Change/ Adjust all measurements from px to rem, do not change the percentages those are fine for web responsiveness, this technique will make things more responsive
 50. Change the declared root property value to a percentage. With a specified px assigned the user no longer has the ability to change the font size/ basically no ability to zoom the contetent
+51. USe best practices to structure the html and css to look and work a little better
+52. Began this practice by changing the box-shadow in the universal selector, assign the proerty and declared value within the body selector and then use the universal selector to inherit this assigned and set value. Works better for the future of the page
+53. We have now included the behaviors within the universal selector to show that we would like these styles to also be assigned to any psuedo elements before and after
+54. 
 
 
 ## Slides/ Lectures Completed:
