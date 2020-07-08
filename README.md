@@ -46,7 +46,8 @@ Continue self-taught training until classes begin in August 2020. This will be s
 40. Learning how to calculate the measurement of vw and vh within the value
 41. we will use the vh within the hero section or the jumbotron more often when we style
 42. we will use the vw within the values to apply percentage over the viewport width
-43. 
+43. Percentages and relative values are converted into pixels
+44. 
 
 
 ## Slides/ Lectures Completed:
