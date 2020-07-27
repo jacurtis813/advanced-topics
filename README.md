@@ -59,7 +59,9 @@ Continue self-taught training until classes begin in August 2020. This will be s
 53. We have now included the behaviors within the universal selector to show that we would like these styles to also be assigned to any psuedo elements before and after
 54. Watch video walk through to understand how the css is parsed within the web browser, 3 steps= cascade and specificity, value processing, and inheritance 
 55. We will begin by converting the px units to rem units this will make things a little easier with the site with the breakpoints, by default the font size is 16px and we want a percentage of that font size, rem not supported beyond the ie 9
-56. Refresher: 51 - 56 steps, gettting a better understanding where we left off within the course. use the inherit value with the property as well as following up with the psuedo selectors for class selectors
+56. Refresher: 51 - 56 steps, gettting a better understanding where we left off within the course. use the inherit value with the property as well as following up with the psuedo selectors for class selectors.
+57. Video lecture continued, how to write and use sass within our css. How to create the syntax of scss and we will learn how to compile the scss back into css like we never wrote scss to begin with. 
+58. 
 
 
 ## Slides/ Lectures Completed:
@@ -67,5 +69,6 @@ Continue self-taught training until classes begin in August 2020. This will be s
 * Section One- Welcome to CSS (advanced): 7min
 * Section Two- First Steps/ Set Up: 1hr 36min
 * Section Three- How CSS Works: Behind the Scenes: 1hr 30min
-
+* Section Four- Intro. To Sass and NPM: 1hr 33min
+* Section Five- 
 
