@@ -60,8 +60,13 @@ Continue self-taught training until classes begin in August 2020. This will be s
 54. Watch video walk through to understand how the css is parsed within the web browser, 3 steps= cascade and specificity, value processing, and inheritance 
 55. We will begin by converting the px units to rem units this will make things a little easier with the site with the breakpoints, by default the font size is 16px and we want a percentage of that font size, rem not supported beyond the ie 9
 56. Refresher: 51 - 56 steps, gettting a better understanding where we left off within the course. use the inherit value with the property as well as following up with the psuedo selectors for class selectors.
-57. Video lecture continued, how to write and use sass within our css. How to create the syntax of scss and we will learn how to compile the scss back into css like we never wrote scss to begin with. 
-58. 
+57. Video lecture continued, how to write and use sass within our css. How to create the syntax of scss and we will learn how to compile the scss back into css like we never wrote scss to begin with.
+ 
+58. Format the page properly, for the code that has been created already. 
+59. Create the main section of the html structure for the page. 
+60. Create the footer section of the html structure for the page.
+61. Set the comments for each section and delete the comments that are no longer needed within the file for the roject.
+62. 
 
 
 ## Slides/ Lectures Completed:
@@ -70,5 +75,5 @@ Continue self-taught training until classes begin in August 2020. This will be s
 * Section Two- First Steps/ Set Up: 1hr 36min
 * Section Three- How CSS Works: Behind the Scenes: 1hr 30min
 * Section Four- Intro. To Sass and NPM: 1hr 33min
-* Section Five- 
+* Section Five- Continue within the section 
 
